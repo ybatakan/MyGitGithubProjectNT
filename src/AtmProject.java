@@ -11,6 +11,8 @@ public class AtmProject {
 
         System.out.println("yusuf a kodlar yazdim");
         //version y1
+        System.out.println("bir kisim kodlar");
+        //y2
     }
 
 }
