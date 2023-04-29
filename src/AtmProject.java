@@ -13,6 +13,9 @@ public class AtmProject {
         //version y1
         System.out.println("bir kisim kodlar");
         //y2
+
+        System.out.println();
+        //y3
     }
 
 }
